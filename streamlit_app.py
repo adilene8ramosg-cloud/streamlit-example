@@ -14,7 +14,7 @@ forums](https://discuss.streamlit.io).
 
 In the meantime, below is an example of what you can do with just a few lines of code:
 """
-st.header('_Hola, mi nombre es Paty y esta es mi primera App!!_ is :blue[cool] :sunglasses:')
+st.header('_Hola, mi nombre es Paty y esta es mi primera App intento 2!!_ is :blue[cool] :sunglasses:')
 
 with st.echo(code_location='below'):
     total_points = st.slider("Number of points in spiral", 1, 5000, 2000)
